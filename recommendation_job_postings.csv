@@ -1,0 +1,6 @@
+title,link,published_date,is_hourly,hourly_low,hourly_high,budget,country,year_month
+Senior Data Scientist,http://example.com/1,2024-05-21,False,,,120000.0,USA,2024-05
+Junior Data Analyst,http://example.com/2,2024-05-20,False,,,60000.0,USA,2024-05
+Senior Software Engineer,http://example.com/3,2024-05-19,False,,,110000.0,Canada,2024-05
+Data Engineer,http://example.com/4,2024-05-18,False,,,90000.0,Canada,2024-05
+Project Manager,http://example.com/5,2024-05-17,False,,,100000.0,USA,2024-05
