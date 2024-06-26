@@ -24,4 +24,8 @@ Docker containers will be used to package the application with all its dependenc
 
 ## Conclusion
 This project will provide a multi-faceted view into the job market through extensive data analysis and a recommendation system, encapsulated within a robust Docker environment for easy deployment and scaling. The deliverables will include detailed reports, predictive models, and a user-friendly web application, offering valuable insights and assistance to job seekers and industry analysts alike.
+ 
+ Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.148.1:5000
 
